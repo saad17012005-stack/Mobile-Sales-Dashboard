@@ -17,4 +17,5 @@
 ● Customer rating overview
 ● Day-wise sales trends
 ● Clean and fully interactive dashboard
-- Dashboard Preview (http://github.com/saad17012005-stack/Mobile-Sales-Dashboard/blob/main/dashboard_SS.png)
+- Dashboard ![Alt text].(http://github.com/saad17012005-stack/Mobile-Sales-Dashboard/blob/main/dashboard_SS.png)
+  : ![Dashboard Preview].(http://github.com/saad17012005-stack/Mobile-Sales-Dashboard/blob/main/dashboard_SS.png)
